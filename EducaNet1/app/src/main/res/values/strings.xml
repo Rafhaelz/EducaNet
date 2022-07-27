@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EducaNet1</string>
+    <string name="btn_entrar">ENTRAR</string>
+    <string name="btn_salvar">SALVAR</string>
+    <string name="btn_consultar">CONSULTAR</string>
+    <string name="btn_fechar">FECHAR</string>
+    <string name="btn_ant">ANTERIOR</string>
+    <string name="btn_prox">PRÓXIMO</string>
+    <string name="btn_voltar">VOLTAR</string>
+    <string name="text_logo">EducaTech</string>
+    <string name="check_login">Salvar informação de login</string>
+    <string name="login">Login:</string>
+    <string name="senha">Senha:</string>
+    <string name="configs">Configurações</string>
+    <string name="sobre">Sobre</string>
+    <string name="curso">Curso:</string>
+    <string name="aluno">Aluno:</string>
+    <string name="nota1">Nota1:</string>
+    <string name="nota2">Nota2:</string>
+    <string name="nota3">Nota3:</string>
+    <string name="media">Media:</string>
+    <string name="situacao">Situação:</string>
+</resources>
